@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "image": "../images/property1.png",
+        "image": "../dist/images/property1.png",
         "location": "2578 Folsom street, san francisco, CA, 94110",
         "type": "Private Room",
         "price": "$1200/month",
@@ -11,7 +11,7 @@
     },
     {
         "id": 2,
-        "image": "../images/property2.png",
+        "image": "../dist/images/property2.png",
         "location": "2578 Folsom street, san francisco, CA, 94110",
         "type": "Private Room",
         "price": "$1200/month",
@@ -21,7 +21,7 @@
     },
     {
         "id": 3,
-        "image": "../images/property3.png",
+        "image": "../dist/images/property3.png",
         "location": "2578 Folsom street, san francisco, CA, 94110",
         "type": "Private Room",
         "price": "$1200/month",
@@ -31,7 +31,7 @@
     },
     {
         "id": 4,
-        "image": "../images/property4.png",
+        "image": "../dist/images/property4.png",
         "location": "2578 Folsom street, san francisco, CA, 94110",
         "type": "Private Room",
         "price": "$1200/month",
@@ -41,7 +41,7 @@
     },
     {
         "id": 5,
-        "image": "../images/property5.png",
+        "image": "../dist/images/property5.png",
         "location": "2578 Folsom street, san francisco, CA, 94110",
         "type": "Private Room",
         "price": "$1200/month",
@@ -51,7 +51,7 @@
     },
     {
         "id": 6,
-        "image": "../images/property6.png",
+        "image": "../dist/images/property6.png",
         "location": "2578 Folsom street, san francisco, CA, 94110",
         "type": "Private Room",
         "price": "$1200/month",
@@ -61,7 +61,7 @@
     },
     {
         "id": 7,
-        "image": "../images/property6.png",
+        "image": "../dist/images/property6.png",
         "location": "2578 Folsom street, san francisco, CA, 94110",
         "type": "Private Room",
         "price": "$1200/month",
@@ -71,7 +71,7 @@
     },
     {
         "id": 8,
-        "image": "../images/property5.png",
+        "image": "../dist/images/property5.png",
         "location": "2578 Folsom street, san francisco, CA, 94110",
         "type": "Private Room",
         "price": "$1200/month",
@@ -81,7 +81,7 @@
     },
     {
         "id": 9,
-        "image": "../images/property4.png",
+        "image": "../dist/images/property4.png",
         "location": "2578 Folsom street, san francisco, CA, 94110",
         "type": "Private Room",
         "price": "$1200/month",
@@ -91,7 +91,7 @@
     },
     {
         "id": 10,
-        "image": "../images/property3.png",
+        "image": "../dist/images/property3.png",
         "location": "2578 Folsom street, san francisco, CA, 94110",
         "type": "Private Room",
         "price": "$1200/month",
@@ -101,7 +101,7 @@
     },
     {
         "id": 11,
-        "image": "../images/property2.png",
+        "image": "../dist/images/property2.png",
         "location": "2578 Folsom street, san francisco, CA, 94110",
         "type": "Private Room",
         "price": "$1200/month",
@@ -111,7 +111,7 @@
     },
     {
         "id": 12,
-        "image": "../images/property1.png",
+        "image": "../dist/images/property1.png",
         "location": "2578 Folsom street, san francisco, CA, 94110",
         "type": "Private Room",
         "price": "$1200/month",
@@ -121,7 +121,7 @@
     },
     {
         "id": 13,
-        "image": "../images/property4.png",
+        "image": "../dist/images/property3.png",
         "location": "2578 Folsom street, san francisco, CA, 94110",
         "type": "Private Room",
         "price": "$1200/month",
@@ -131,7 +131,7 @@
     },
     {
         "id": 14,
-        "image": "../images/property1.png",
+        "image": "../dist/images/property6.png",
         "location": "2578 Folsom street, san francisco, CA, 94110",
         "type": "Private Room",
         "price": "$1200/month",
@@ -141,7 +141,7 @@
     },
     {
         "id": 15,
-        "image": "../images/property6.png",
+        "image": "../dist/images/property2.png",
         "location": "2578 Folsom street, san francisco, CA, 94110",
         "type": "Private Room",
         "price": "$1200/month",
@@ -151,7 +151,7 @@
     },
     {
         "id": 16,
-        "image": "../images/property2.png",
+        "image": "../dist/images/property5.png",
         "location": "2578 Folsom street, san francisco, CA, 94110",
         "type": "Private Room",
         "price": "$1200/month",
